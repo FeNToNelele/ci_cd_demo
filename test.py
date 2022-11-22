@@ -1,6 +1,6 @@
 #https://docs.python.org/3/library/unittest.html
 import unittest
-from seconddegreeequationsolver import EquationSolver
+from seconddegreeequationsolver import second_degree_equation_solver
 
 class testEquationSolverClass(unittest.TestCase):
 
